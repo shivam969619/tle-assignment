@@ -11,11 +11,11 @@ TLE Assignment is a web application designed to help students track their coding
 
 ## 🎬 Demo Video
 
-* [Watch Demo Video](https://youtu.be/your-video-link)
+* [Watch Demo Video](https://drive.google.com/file/d/1SuUqtmekHsKO0ifO0yf8jWum8NfPYYZu/view?usp=sharing)
 
 ## 📁 Repository
 
-* GitHub: [https://github.com/yourusername/tke-assignment](https://github.com/yourusername/tke-assignment)
+* GitHub: [https://github.com/shivam969619/tle-assignment](https://github.com/shivam969619/tle-assignment)
 
 ## 🛠️ Tech Stack
 
