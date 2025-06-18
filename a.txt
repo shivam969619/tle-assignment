@@ -1,0 +1,23 @@
+1.Create a table listing all enrolled students, showing: Name, Email, Phone Number, Codeforces Handle, Current Rating, and Max Rating. 
+
+2.Include options to add, edit, delete students and download the entire dataset as CSV.
+
+3.Show an option in the row to view more details, clicking on which student's Codeforces progress should be shown.
+
+4.Allow filtering by the last 30, 90, or 365 days. For the selected filter, show a rating graph and list of contests with rating changes, ranks and number of problems unsolved by the user in that contest till date.
+
+5. Allow filtering by the last 7, 30, or 90 days. Show the following based on the filter:
+Most difficult problem solved (by rating)
+Total problems solved
+Average rating
+Average problems per day
+Bar chart of number of problems solved per rating bucket
+Show a submission heat map
+
+6.Codeforces Data Sync
+
+7.Inactivity Detection
+
+8.Sending mail feature.
+
+9.enable/disable send email feature for a particular student.
