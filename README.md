@@ -7,7 +7,8 @@ TLE Assignment is a web application designed to help students track their coding
 * Managing student profiles
 * Viewing contest histories and problem data
 * Sending weekly practice reminders
-* Exporting student data as CSV for reporting
+* Exporting student data as CSV for reporting![Screenshot 2025-06-19 204704](https://github.com/user-attachments/assets/f634dac2-6d1e-44c6-830b-2fe0a13a63ba)
+
 
 ## 🎬 Demo Video
 
