@@ -86,4 +86,4 @@ TLE Assignment is a web application designed to help students track their coding
 
 ## 📬 Contact
 
-For questions or support, reach out to **Shivam Dubey** at `shivam7214376.com`.
+For questions or support, reach out to **Shivam Dubey** at `shivam7214376@gmail.com`.
